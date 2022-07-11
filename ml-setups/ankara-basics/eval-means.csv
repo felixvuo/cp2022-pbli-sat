@@ -1,0 +1,3 @@
+split,time_vbc,time_sbc,time_def,time_vwc,time_f2f,time_f2fsr,time_sumpb,time_combi,time_f2f_fe,time_f2fsr_fe,time_sumpb_fe,time_combi_fe
+class,94.79,479.53,429.72,899.42,362.03,367.28,351.28,365.67,368.03,371.25,355.25,369.65
+instance,113.1,401.42,520.83,1102.27,290.41,286.41,267.96,278.76,296.43,291.23,272.79,283.59
