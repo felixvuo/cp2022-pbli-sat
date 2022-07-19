@@ -1,9 +1,9 @@
-# Experiment Data for "Selecting SAT Encodings for Pseudo-Boolean and Linear Integer Constraints" in CP2022
+# Experiment Data for _Selecting SAT Encodings for Pseudo-Boolean and Linear Integer Constraints_ in CP2022
 
-This repository contains the constraint models and timing data for the experiments
-in our paper.  The paper was written by Felix Ulrich-Oltean, Peter Nightingale and
-James Walker, all from the University of York.  The paper was accepted to CP2022
-in Haifa.
+This repository contains the constraint models and timing data for the
+experiments in our paper, [Selecting SAT Encodings for Pseudo-Boolean and Linear
+Integer Constraints](https://eprints.whiterose.ac.uk/186734/1/) in
+[CP2022](https://cp2022.a4cp.org/accepted_papers.html)
 
 ## Data
 - The Essence Prime models and parameter files are in `bareproblems.tgz`.
